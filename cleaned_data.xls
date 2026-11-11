@@ -1,0 +1,255 @@
+CountryName,Region,Area(km2),Languages,CurrencyCodes,borders,Population
+Abkhazia,Asia,8665.0,"Abkhaz, Russian",RUB,"GEO, RUS",244236
+Afghanistan,Asia,652230.0,"Dari, Pashto, Turkmen",AFN,"IRN, PAK, TKM, UZB, TJK, CHN",43844000
+Albania,Europe,28748.0,Albanian,ALL,"MNE, GRC, MKD, UNK",2335930
+Algeria,Africa,2381741.0,Arabic,DZD,"TUN, LBY, NER, ESH, MRT, MLI, MAR",47400000
+American Samoa,Oceania,199.0,"English, Samoan",USD,,43268
+Andorra,Europe,468.0,Catalan,EUR,"FRA, ESP",90105
+Angola,Africa,1246700.0,Portuguese,AOA,"COG, COD, ZMB, NAM",38778554
+Anguilla,Americas,91.0,English,XCD,,16010
+Antarctica,Antarctic,14000000.0,,,,1300
+Antigua and Barbuda,Americas,442.0,English,XCD,,106365
+Argentina,Americas,2780400.0,"Guarani, Spanish",ARS,"BOL, BRA, CHL, PRY, URY",46466688
+Armenia,Asia,29743.0,Armenian,AMD,"AZE, GEO, IRN, TUR",3103900
+Aruba,Americas,180.0,"Dutch, Papiamento",AWG,,110625
+Australia,Oceania,7692024.0,English,AUD,,27921150
+Austria,Europe,83871.0,German,EUR,"CZE, DEU, HUN, ITA, LIE, SVK, SVN, CHE",9217573
+Azerbaijan,Asia,86600.0,Azerbaijani,AZN,"ARM, GEO, IRN, RUS, TUR",10273450
+Bahamas,Americas,13943.0,English,"BSD, USD",,398165
+Bahrain,Asia,765.0,Arabic,BHD,,1603260
+Bangladesh,Asia,147570.0,Bengali,BDT,"MMR, IND",169828911
+Barbados,Americas,430.0,English,BBD,,261692
+Belarus,Europe,207600.0,"Belarusian, Russian",BYN,"LVA, LTU, POL, RUS, UKR",9056080
+Belgium,Europe,30528.0,"German, French, Dutch",EUR,"FRA, DEU, LUX, NLD",11942772
+Belize,Americas,22966.0,"Belize Kriol, English, Spanish",BZD,"GTM, MEX",418982
+Benin,Africa,112622.0,French,XOF,"BFA, NER, NGA, TGO",13551992
+Bermuda,Americas,54.0,English,BMD,,64055
+Bhutan,Asia,38394.0,Dzongkha,"BTN, INR","CHN, IND",790718
+Bolivia,Americas,1098581.0,"Aymara, Guarani, Quechua, Spanish",BOB,"ARG, BRA, CHL, PRY, PER",11365333
+Bosnia and Herzegovina,Europe,51209.0,"Bosnian, Croatian, Serbian",BAM,"HRV, MNE, SRB",3412000
+Botswana,Africa,582000.0,"English, Tswana",BWP,"NAM, ZAF, ZMB, ZWE",2515633
+Bouvet Island,Antarctic,49.0,Norwegian,NOK,,0
+Brazil,Americas,8515767.0,Portuguese,BRL,"ARG, BOL, COL, GUF, GUY, PRY, PER, SUR, URY, VEN",214211951
+British Indian Ocean Territory,Africa,60.0,English,USD,,2000
+British Virgin Islands,Americas,151.0,English,USD,,38984
+Brunei,Asia,5765.0,Malay,"BND, SGD",MYS,458600
+Bulgaria,Europe,110879.0,Bulgarian,EUR,"GRC, MKD, ROU, SRB, TUR",6423207
+Burkina Faso,Africa,272967.0,French,XOF,"BEN, CIV, GHA, MLI, NER, TGO",22489126
+Burundi,Africa,27834.0,"French, Rundi",BIF,"COD, RWA, TZA",12332788
+Cabo Verde,Africa,4033.0,Portuguese,CVE,,491233
+Cambodia,Asia,181035.0,Khmer,"KHR, USD","LAO, THA, VNM",17816143
+Cameroon,Africa,475442.0,"English, French",XAF,"CAF, TCD, COG, GNQ, GAB, NGA",29442327
+Canada,Americas,9984670.0,"English, French",CAD,"USA, GRL",41798407
+Caribbean Netherlands,Americas,328.0,"English, Dutch, Papiamento",USD,,31980
+Cayman Islands,Americas,264.0,English,KYD,,90577
+Central African Republic,Africa,622984.0,"French, Sango",XAF,"CMR, TCD, COD, COG, SSD, SDN",5513282
+Chad,Africa,1284000.0,"Arabic, French",XAF,"CMR, CAF, LBY, NER, NGA, SDN",20031602
+Chile,Americas,756102.0,Spanish,CLP,"ARG, BOL, PER",20150948
+China,Asia,9706961.0,Chinese,CNY,"AFG, BTN, MMR, HKG, IND, KAZ, NPL, PRK, KGZ, LAO, MAC, MNG, PAK, RUS, TJK, VNM",1404890000
+Christmas Island,Oceania,135.0,English,AUD,,1692
+Cocos (Keeling) Islands,Oceania,14.0,English,AUD,,593
+Colombia,Americas,1141748.0,Spanish,COP,"BRA, ECU, PAN, PER, VEN",53399171
+Comoros,Africa,1862.0,"Arabic, French, Ngazidja Comorian",KMF,,944388
+Congo,Africa,342000.0,"French, Kongo, Lingala",XAF,"AGO, CMR, CAF, COD, GAB",6332961
+Cook Islands,Oceania,236.0,"English, Cook Islands Maori","CKD, NZD",,15040
+Costa Rica,Americas,51100.0,Spanish,CRC,"NIC, PAN",5160700
+Croatia,Europe,56594.0,Croatian,EUR,"BIH, HUN, MNE, SRB, SVN",3874993
+Cuba,Americas,109884.0,Spanish,CUP,,9434593
+Curaçao,Americas,444.0,"English, Dutch, Papiamento",XCG,,155826
+Cyprus,Europe,9251.0,"Greek, Turkish",EUR,GBR,983000
+Czechia,Europe,78865.0,"Czech, Slovak",CZK,"AUT, DEU, POL, SVK",10903655
+DRC,Africa,2344858.0,"French, Kongo, Lingala, Luba-Lulua, Swahili",CDF,"AGO, BDI, CAF, COG, RWA, SSD, TZA, UGA, ZMB",116452000
+Denmark,Europe,43094.0,Danish,DKK,DEU,6038638
+Djibouti,Africa,23200.0,"Arabic, French",DJF,"ERI, ETH, SOM",1066809
+Dominica,Americas,751.0,English,XCD,,65431
+Dominican Republic,Americas,48671.0,Spanish,DOP,HTI,11532151
+Ecuador,Americas,276841.0,Spanish,USD,"COL, PER",18135478
+Egypt,Africa,1002450.0,Arabic,EGP,"ISR, LBY, PSE, SDN",108613296
+El Salvador,Americas,21041.0,Spanish,USD,"GTM, HND",6029976
+Equatorial Guinea,Africa,28051.0,"French, Portuguese, Spanish",XAF,"CMR, GAB",1795834
+Eritrea,Africa,117600.0,"Arabic, English, Tigrinya",ERN,"DJI, ETH, SDN",3682669
+Estonia,Europe,45227.0,Estonian,EUR,"LVA, RUS",1360745
+Eswatini,Africa,17364.0,"English, Swazi","SZL, ZAR","MOZ, ZAF",1235549
+Ethiopia,Africa,1104300.0,Amharic,ETB,"DJI, ERI, KEN, SOM, SSD, SDN",111652998
+Falkland Islands,Americas,12173.0,English,FKP,,3662
+Faroe Islands,Europe,1393.0,"Danish, Faroese","DKK, FOK",,56210
+Fiji,Oceania,18272.0,"English, Fijian, Fiji Hindi",FJD,,902623
+Finland,Europe,338424.0,"Finnish, Swedish",EUR,"NOR, SWE, RUS",5659324
+France,Europe,551695.0,French,EUR,"AND, BEL, DEU, ITA, LUX, MCO, ESP, CHE",69081996
+French Guiana,Americas,83534.0,French,EUR,"BRA, SUR",254541
+French Polynesia,Oceania,4167.0,French,XPF,,278786
+French Southern and Antarctic Lands,Antarctic,7747.0,French,EUR,,400
+Gabon,Africa,267668.0,French,XAF,"CMR, COG, GNQ",2469296
+Gambia,Africa,10689.0,English,GMD,SEN,2422712
+Georgia,Asia,69700.0,Georgian,GEL,"ARM, AZE, RUS, TUR",3657000
+Germany,Europe,357114.0,German,EUR,"AUT, BEL, CZE, DNK, FRA, LUX, NLD, POL, CHE",83298787
+Ghana,Africa,238533.0,English,GHS,"BFA, CIV, TGO",34378768
+Gibraltar,Europe,6.0,English,GIP,ESP,38196
+Greece,Europe,131990.0,Greek,EUR,"ALB, BGR, TUR, MKD",10372335
+Greenland,Americas,2166086.0,Greenlandic,DKK,CAN,56945
+Grenada,Americas,344.0,English,XCD,,109021
+Guadeloupe,Americas,1628.0,French,EUR,,400132
+Guam,Oceania,549.0,"Chamorro, English, Spanish",USD,,153836
+Guatemala,Americas,108889.0,Spanish,GTQ,"BLZ, SLV, HND, MEX",18406359
+Guernsey,Europe,78.0,"English, French, Norman","GBP, GGP",,64781
+Guinea,Africa,245857.0,French,GNF,"CIV, GNB, LBR, MLI, SEN, SLE",17521167
+Guinea-Bissau,Africa,36125.0,"Portuguese, Upper Guinea Crioulo",XOF,"GIN, SEN",1890252
+Guyana,Americas,214969.0,English,GYD,"BRA, SUR, VEN",956044
+Haiti,Americas,27750.0,"French, Haitian Creole",HTG,DOM,11867032
+Heard Island and McDonald Islands,Antarctic,412.0,English,AUD,,0
+Honduras,Americas,112492.0,Spanish,HNL,"GTM, SLV, NIC",10186738
+Hong Kong,Asia,1104.0,"English, Chinese",HKD,CHN,7498100
+Hungary,Europe,93028.0,Hungarian,HUF,"AUT, HRV, ROU, SRB, SVK, SVN, UKR",9488428
+Iceland,Europe,103000.0,Icelandic,ISK,,396500
+India,Asia,3287590.0,"English, Hindi, Tamil",INR,"BGD, BTN, MMR, CHN, NPL, PAK",1429404000
+Indonesia,Asia,1904569.0,Indonesian,IDR,"TLS, MYS, PNG",288315089
+Iran,Asia,1648195.0,Persian,IRR,"AFG, ARM, AZE, IRQ, PAK, TUR, TKM",87134000
+Iraq,Asia,438317.0,"Arabic, Aramaic, Central Kurdish",IQD,"IRN, JOR, KWT, SAU, SYR, TUR",46118793
+Ireland,Europe,70273.0,"English, Irish",EUR,GBR,5525600
+Isle of Man,Europe,572.0,"English, Manx","GBP, IMP",,84523
+Israel,Asia,20770.0,"Arabic, Hebrew",ILS,"EGY, JOR, LBN, PSE, SYR",10305000
+Italy,Europe,301336.0,"Italian, Catalan",EUR,"AUT, FRA, SMR, SVN, CHE, VAT",58943673
+Ivory Coast,Africa,322463.0,French,XOF,"BFA, GHA, GIN, LBR, MLI",33293101
+Jamaica,Americas,10991.0,"English, Jamaican Patois",JMD,,2774538
+Japan,Asia,377930.0,Japanese,JPY,,122650000
+Jersey,Europe,116.0,"English, French, Norman","GBP, JEP",,104540
+Jordan,Asia,89342.0,Arabic,JOD,"IRQ, ISR, PSE, SAU, SYR",11937000
+Kazakhstan,Asia,2724900.0,"Kazakh, Russian",KZT,"CHN, KGZ, RUS, TKM, UZB",20618796
+Kenya,Africa,580367.0,"English, Swahili",KES,"ETH, SOM, SSD, TZA, UGA",54227015
+Kiribati,Oceania,811.0,"English, Gilbertese","AUD, KID",,120740
+Kosovo,Europe,10908.0,"Albanian, Serbian",EUR,"ALB, MKD, MNE, SRB",1582322
+Kuwait,Asia,17818.0,Arabic,KWD,"IRQ, SAU",4881254
+Kyrgyzstan,Asia,199951.0,"Kyrgyz, Russian",KGS,"CHN, KAZ, TJK, UZB",7404300
+Laos,Asia,236800.0,Lao,LAK,"MMR, KHM, CHN, THA, VNM",7745000
+Latvia,Europe,64559.0,Latvian,EUR,"BLR, EST, LTU, RUS",1832100
+Lebanon,Asia,10452.0,"Arabic, French",LBP,"ISR, SYR",5895466
+Lesotho,Africa,30355.0,"English, Sotho","LSL, ZAR",ZAF,2116427
+Liberia,Africa,111369.0,English,LRD,"GIN, CIV, SLE",5248621
+Libya,Africa,1759540.0,Arabic,LYD,"DZA, TCD, EGY, NER, SDN, TUN",7539852
+Liechtenstein,Europe,160.0,German,CHF,"AUT, CHE",41228
+Lithuania,Europe,65300.0,Lithuanian,EUR,"BLR, LVA, POL, RUS",2887761
+Luxembourg,Europe,2586.0,"German, French, Luxembourgish",EUR,"BEL, FRA, DEU",690959
+Macau,Asia,30.0,"Portuguese, Chinese",MOP,CHN,686500
+Madagascar,Africa,587041.0,"French, Malagasy",MGA,,32658977
+Malawi,Africa,118484.0,"English, Chichewa",MWK,"MOZ, TZA, ZMB",21201635
+Malaysia,Asia,330803.0,"English, Malay",MYR,"BRN, IDN, THA",34389400
+Maldives,Asia,300.0,Divehi,MVR,,515132
+Mali,Africa,1240192.0,French,XOF,"DZA, BFA, GIN, CIV, MRT, NER, SEN",23929000
+Malta,Europe,316.0,"English, Maltese",EUR,,588254
+Marshall Islands,Oceania,181.0,"English, Marshallese",USD,,37548
+Martinique,Americas,1128.0,French,EUR,,378243
+Mauritania,Africa,1030700.0,Arabic,MRU,"DZA, MLI, SEN, ESH",4927532
+Mauritius,Africa,2040.0,"English, French, Mauritian Creole",MUR,,1240316
+Mayotte,Africa,374.0,French,EUR,,226915
+Mexico,Americas,1964375.0,Spanish,MXN,"BLZ, GTM, USA",131231919
+Micronesia,Oceania,702.0,English,USD,,75817
+Moldova,Europe,33846.0,Romanian,MDL,"ROU, UKR",2365600
+Monaco,Europe,2.02,French,EUR,FRA,38857
+Mongolia,Asia,1564110.0,Mongolian,MNT,"CHN, RUS",3591120
+Montenegro,Europe,13812.0,Montenegrin,EUR,"ALB, BIH, HRV, UNK, SRB",622902
+Montserrat,Americas,102.0,English,XCD,,4386
+Morocco,Africa,446550.0,"Arabic, Standard Moroccan Tamazight",MAD,"DZA, ESH, ESP",37254695
+Mozambique,Africa,801590.0,Portuguese,MZN,"MWI, ZAF, SWZ, TZA, ZMB, ZWE",34958973
+Myanmar,Asia,676578.0,Burmese,MMK,"BGD, CHN, IND, LAO, THA",51375327
+Namibia,Africa,825615.0,"Afrikaans, German, English, Herero, Hai‖om, Kwangali, Lozi, Ndonga, Tswana","NAD, ZAR","AGO, BWA, ZAF, ZMB",3022401
+Naoero,Oceania,21.0,"English, Nauruan",AUD,,11680
+Nepal,Asia,147181.0,Nepali,NPR,"CHN, IND",30034040
+Netherlands,Europe,41850.0,Dutch,EUR,"BEL, DEU",18171612
+New Caledonia,Oceania,18575.0,French,XPF,,264596
+New Zealand,Oceania,270467.0,"English, Maori, New Zealand Sign Language",NZD,,4993923
+Nicaragua,Americas,130373.0,Spanish,NIO,"CRI, HND",6874748
+Niger,Africa,1267000.0,French,XOF,"DZA, BEN, BFA, TCD, LBY, MLI, NGA",27522750
+Nigeria,Africa,923768.0,English,NGN,"BEN, CMR, TCD, NER",223800000
+Niue,Oceania,260.0,"English, Niuean",NZD,,1681
+Norfolk Island,Oceania,36.0,"English, Norfuk",AUD,,2188
+North Korea,Asia,120538.0,Korean,KPW,"CHN, KOR, RUS",25950000
+North Macedonia,Europe,25713.0,Macedonian,MKD,"ALB, BGR, GRC, UNK, SRB",1836713
+Northern Cyprus,Europe,3355.0,Turkish,TRY,CYP,382836
+Northern Mariana Islands,Oceania,464.0,"Carolinian, Chamorro, English",USD,,46078
+Norway,Europe,323802.0,"Norwegian Nynorsk, Norwegian Bokmål, Northern Sami, Lule Sami, Southern Sami",NOK,"FIN, SWE, RUS",5636904
+Oman,Asia,309500.0,Arabic,OMR,"SAU, ARE, YEM",5398645
+Pakistan,Asia,881912.0,"English, Urdu",PKR,"AFG, CHN, IND, IRN",241499431
+Palau,Oceania,459.0,"English, Palauan",USD,,16733
+Palestine,Asia,6220.0,Arabic,"EGP, ILS, JOD","ISR, EGY, JOR",5557096
+Panama,Americas,75417.0,Spanish,"PAB, USD","COL, CRI",4064780
+Papua New Guinea,Oceania,462840.0,"English, Hiri Motu, Tok Pisin",PGK,IDN,11781559
+Paraguay,Americas,406752.0,"Guarani, Spanish",PYG,"ARG, BOL, BRA",6109644
+Peru,Americas,1285216.0,"Aymara, Quechua, Spanish",PEN,"BOL, BRA, CHL, COL, ECU",34157732
+Philippines,Asia,342353.0,"English, Filipino",PHP,,114849400
+Pitcairn Islands,Oceania,47.0,English,NZD,,35
+Poland,Europe,312679.0,Polish,PLN,"BLR, CZE, DEU, LTU, RUS, SVK, UKR",37232000
+Portugal,Europe,92090.0,Portuguese,EUR,ESP,11424031
+Puerto Rico,Americas,8870.0,"English, Spanish",USD,,3184195
+Qatar,Asia,11586.0,Arabic,QAR,SAU,3370611
+Romania,Europe,238391.0,Romanian,RON,"BGR, HUN, MDA, SRB, UKR",19041322
+Russia,Europe,17098242.0,Russian,RUB,"AZE, BLR, CHN, EST, FIN, GEO, KAZ, PRK, LVA, LTU, MNG, NOR, POL, UKR",146028325
+Rwanda,Africa,26338.0,"English, French, Kinyarwanda",RWF,"BDI, COD, TZA, UGA",14418145
+Réunion,Africa,2511.0,French,EUR,,840974
+Saint Barthélemy,Americas,21.0,French,EUR,,4255
+"Saint Helena, Ascension and Tristan da Cunha",Africa,394.0,English,"GBP, SHP",,53192
+Saint Kitts and Nevis,Americas,261.0,English,XCD,,54338
+Saint Lucia,Americas,616.0,English,XCD,,184100
+Saint Martin,Americas,53.0,French,EUR,SXM,38659
+Saint Pierre and Miquelon,Americas,242.0,French,EUR,,5819
+Saint Vincent and the Grenadines,Americas,389.0,English,XCD,,109296
+Samoa,Oceania,2842.0,"English, Samoan",WST,,205557
+San Marino,Europe,61.0,Italian,EUR,ITA,34172
+Saudi Arabia,Asia,2149690.0,Arabic,SAR,"IRQ, JOR, KWT, OMN, QAT, ARE, YEM",35325004
+Senegal,Africa,196722.0,French,XOF,"GMB, GIN, GNB, MLI, MRT",19575061
+Serbia,Europe,88361.0,Serbian,RSD,"BIH, BGR, HRV, HUN, UNK, MKD, MNE, ROU",6532019
+Seychelles,Africa,452.0,"Seychellois Creole, English, French",SCR,,123565
+Sierra Leone,Africa,71740.0,English,SLE,"GIN, LBR",8460512
+Singapore,Asia,710.0,"English, Chinese, Malay, Tamil",SGD,,6208500
+Sint Maarten,Americas,34.0,"English, French, Dutch",XCG,MAF,58477
+Slovakia,Europe,49037.0,Slovak,EUR,"AUT, CZE, HUN, POL, UKR",5403009
+Slovenia,Europe,20273.0,Slovenian,EUR,"AUT, HRV, ITA, HUN",2136385
+Solomon Islands,Oceania,28896.0,English,SBD,,828857
+Somalia,Africa,637657.0,"Arabic, Somali",SOS,"DJI, ETH, KEN",20305907
+Somaliland,Africa,137600.0,"Somali, Arabic, English",SLSH,"DJI, ETH, SOM",4914100
+South Africa,Africa,1221037.0,"Afrikaans, English, Southern Ndebele, Northern Sotho, Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",ZAR,"BWA, LSO, MOZ, NAM, SWZ, ZWE",63015904
+South Georgia,Antarctic,3903.0,English,GBP,,32
+South Korea,Asia,100210.0,Korean,KRW,PRK,51106229
+South Ossetia,Asia,3900.0,"Ossetic, Russian",RUB,"GEO, RUS",56520
+South Sudan,Africa,619745.0,English,SSP,"CAF, COD, ETH, KEN, SDN, UGA",12703714
+Spain,Europe,505992.0,"Spanish, Catalan, Basque, Galician, Aranese",EUR,"AND, FRA, GIB, PRT, MAR",49801559
+Sri Lanka,Asia,65610.0,"Sinhala, Tamil",LKR,,21756000
+Sudan,Africa,1886068.0,"Arabic, English",SDG,"CAF, TCD, EGY, ERI, ETH, LBY, SSD",53282719
+Suriname,Americas,163820.0,Dutch,SRD,"BRA, GUF, GUY",616500
+Svalbard and Jan Mayen,Europe,61399.0,Norwegian,NOK,,2562
+Sweden,Europe,450295.0,Swedish,SEK,"FIN, NOR",10621103
+Switzerland,Europe,41284.0,"French, Swiss German, Italian, Romansh",CHF,"AUT, FRA, ITA, LIE, DEU",9154896
+Syria,Asia,185180.0,Arabic,SYP,"IRQ, ISR, JOR, LBN, TUR",26472497
+São Tomé and Príncipe,Africa,964.0,Portuguese,STN,,220372
+Taiwan,Asia,36193.0,Chinese,TWD,,23224721
+Tajikistan,Asia,143100.0,"Russian, Tajik",TJS,"AFG, CHN, KGZ, UZB",10721000
+Tanzania,Africa,945087.0,"English, Swahili",TZS,"BDI, COD, KEN, MWI, MOZ, RWA, UGA, ZMB",70038850
+Thailand,Asia,513120.0,Thai,THB,"MMR, KHM, LAO, MYS",70250751
+Timor-Leste,Asia,14874.0,"Portuguese, Tetum",USD,IDN,1409452
+Togo,Africa,56785.0,French,XOF,"BEN, BFA, GHA",8095498
+Tokelau,Oceania,12.0,"English, Samoan, Tokelauan",NZD,,1411
+Tonga,Oceania,747.0,"English, Tongan",TOP,,100179
+Trinidad and Tobago,Americas,5130.0,English,TTD,,1512779
+Tunisia,Africa,163610.0,Arabic,TND,"DZA, LBY",11992843
+Turkey,Asia,783562.0,Turkish,TRY,"ARM, AZE, BGR, GEO, GRC, IRN, IRQ, SYR",86092168
+Turkmenistan,Asia,488100.0,"Russian, Turkmen",TMT,"AFG, IRN, KAZ, UZB",7057841
+Turks and Caicos Islands,Americas,948.0,English,USD,,50828
+Tuvalu,Oceania,26.0,"English, Tuvaluan","AUD, TVD",,10643
+Uganda,Africa,241550.0,"English, Swahili",UGX,"COD, KEN, RWA, SSD, TZA",45905417
+Ukraine,Europe,603500.0,Ukrainian,UAH,"BLR, HUN, MDA, POL, ROU, RUS, SVK",28700000
+United Arab Emirates,Asia,83600.0,Arabic,AED,"OMN, SAU",11027129
+United Kingdom,Europe,242900.0,English,GBP,IRL,66912637
+United States,Americas,9372610.0,English,USD,"CAN, MEX",341784857
+United States Minor Outlying Islands,Americas,34.2,English,USD,,300
+United States Virgin Islands,Americas,347.0,English,USD,,87146
+Uruguay,Americas,181034.0,Spanish,UYU,"ARG, BRA",3480601
+Uzbekistan,Asia,447400.0,"Russian, Uzbek",UZS,"AFG, KAZ, KGZ, TJK, TKM",39047321
+Vanuatu,Oceania,12189.0,"Bislama, English, French",VUV,,321409
+Vatican City,Europe,0.44,"Italian, Latin",EUR,ITA,882
+Venezuela,Americas,916445.0,Spanish,VES,"BRA, COL, GUY",28633711
+Vietnam,Asia,331212.0,Vietnamese,VND,"KHM, CHN, LAO",102300000
+Wallis and Futuna,Oceania,142.0,French,XPF,,11151
+Western Sahara,Africa,266000.0,"Hassaniya Arabic, Spanish","DZD, MAD, MRU","DZA, MRT, MAR",510713
+Yemen,Asia,527968.0,Arabic,YER,"OMN, SAU",32684503
+Zambia,Africa,752612.0,English,ZMW,"AGO, BWA, COD, MWI, MOZ, NAM, TZA, ZWE",23003214
+Zimbabwe,Africa,390757.0,"Barwe, English, Kalanga, Khoisan languages, Ndau, Northern Ndebele, Chichewa, Shona, Sotho, Tonga (Zambia), Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language","USD, ZWG","BWA, MOZ, ZAF, ZMB",16175966
+Åland Islands,Europe,1580.0,Swedish,EUR,SWE,30654
