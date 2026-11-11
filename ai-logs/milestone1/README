@@ -1,0 +1,11 @@
+# AI Usage Disclosure — Milestone 1
+
+We used ChatGPT during this milestone to:
+
+1. Draft and refine project-related prompts
+2. Generate and format the PDF report using the content and findings we supplied
+3. Develop statistical questions for the five visualizations, choose suitable chart types, and improve readability, including by using a logarithmic axis for the area boxplot
+4. Get occasional help with Python code and parts of the data extraction process
+5. Cross-check selected facts and identify relevant sources to consult and cite
+
+We also consulted documentation and programming forums directly for many coding questions
